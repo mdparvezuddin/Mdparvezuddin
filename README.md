@@ -2,8 +2,8 @@
 
 ## 👨‍💻 About Me
 - B.Tech. Computer Science student at Lovely Professional University, India
-- Passionate developer focused on deep learning, computer vision, and full-stack web applications
-- Advocate for impactful tech, open-source contribution, and sustainable solutions
+- Aspiring AI Engineer, building expertise in deep learning, web development, and workflow automation
+- Driven by a passion for practical innovation, teamwork, and scalable, ethical tech solutions
 
 ## 🛠️ Core Skills
 
