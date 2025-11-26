@@ -1,10 +1,9 @@
 # Hi, I'm Md Parvezuddin 👋
 
 ## 👨‍💻 About Me
-- B.Tech. Computer Science student at LPU, India, building real-world skills in AI, automation, and software engineering.
-- Aspiring AI Engineer focused on deep learning, computer vision, ML research, and production-ready intelligent systems.
-- Hands-on with modern web development, workflow automation (n8n, APIs), and cloud/data solutions.
-- Driven by curiosity and impact—committed to creating scalable, ethical, and practical AI-powered technology.
+- B.Tech. Computer Science student at Lovely Professional University, experienced in web development, and workflow automation.
+- Aspiring AI Engineer, Eager learner, exploring AI technology, deep learning, CNNs, computer vision, and modern software engineering.
+- Driven by curiosity and impact—building scalable, ethical, practical AI technologies and real world solutions.
 
 ## 🛠️ Core Skills
 
