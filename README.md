@@ -56,9 +56,6 @@
   Achieved 96% accuracy (ResNet/VGG architectures) on custom data, deployed full-stack with Flask + React  
   → Implemented advanced augmentation, computer vision, API, and instant prediction UI
 
-- **NSS Volunteer:**  
-  Hands-on leadership in social responsibility and sustainable community initiatives (LPU)
-
 
 ## 📫 Connect With Me
 
