@@ -61,9 +61,11 @@
 
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/md-parvezuddin)
-- [GitHub](https://github.com/mdparvezuddin)
-- Email: mdparvez5546@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdparvezuddin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-parvezuddin)
+[![GitHub](https://img.shields.io/badge/GitHub-mdparvezuddin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdparvezuddin)
+[![Gmail](https://img.shields.io/badge/Gmail-mdparvez5546@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdparvez5546@gmail.com)
+
 
 
 *Always learning, building, and ready to collaborate!*
